@@ -228,11 +228,7 @@ def load_classes():
 
 
 # ---------------- HEADER ----------------
-st.markdown("""
-<div class="brand">🐾 PawVision<span> AI</span></div>
-""", unsafe_allow_html=True)
 
-st.write("")
 
 left, right = st.columns([1.5, 1], gap="large")
 
